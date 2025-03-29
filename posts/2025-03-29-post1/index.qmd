@@ -1,0 +1,15 @@
+---
+title: "blog post title"
+description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
+author:
+  - name: Chris Grieves
+date: 3-29-2025
+categories: [Quarto, R] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+This is something eh?
+
+```{pyton}
+1+1
+```

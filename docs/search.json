@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "boredstats",
+    "title": "BoredStats",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "blog post title\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\nMar 29, 2025\n\n\nChris Grieves\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! My name is Chris Grieves"
+  },
+  {
+    "objectID": "posts/2025-03-29-post1/index.html",
+    "href": "posts/2025-03-29-post1/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "This is something eh?\n1+1"
   }
 ]

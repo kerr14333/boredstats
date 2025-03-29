@@ -1,0 +1,12 @@
+{
+  "hash": "fda2c1395d147752195b34dd525fb48b",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"blog post title\"\ndescription: \"blog post description (appears underneath the title in smaller text) which is included on the listing page\"\nauthor:\n  - name: Chris Grieves\ndate: 3-29-2025\ncategories: [Quarto, R] # self-defined categories\ndraft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!\n---\n\nThis is something eh?\n\n\n```{pyton}\n1+1\n```\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

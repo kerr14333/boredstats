@@ -1,9 +1,17 @@
 ---
 title: "About"
+image: media/kerr.jpg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/christopher-grieves-b0a4229b/
+    - text: GitHub
+      href: https://github.com/kerr14333
+    - text: Email
+      href: cyg5005@gmail.com
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Hi! My name is Chris Grieves
